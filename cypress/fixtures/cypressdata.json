@@ -1,0 +1,11 @@
+{
+  "username":"ineuron@ineuron.ai",
+  "password":"ineuron",
+  "courseName":"testing",
+  "courseDescription":"new testing course",
+  "price":"200",
+  "name": "Ruhi",
+  "email": "Ruhi@cypress.io",
+  "body": "sample body",
+  "CATEGORY":"DSA"
+}
