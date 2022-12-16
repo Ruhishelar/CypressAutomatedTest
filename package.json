@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "smoke":" cypress run --spec ./cypress/e2e/first.cy.js",
+    "smoke":" cypress run --spec ./cypress/e2e/first.cy.js --headed",
     "regression":" cypress run --spec ./cypress/e2e/registration.cy.js",
     "e2e":" cypress run",
     "chrome":" cypress run --spec ./cypress/e2e/login.cy.js --browser=chrome --headed"
